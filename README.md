@@ -1,4 +1,5 @@
-# me irl
-![alt text](1680212058207421.png)
+# _This is an intelligent AI with a funny cat_
+<p align="center">
+<img src="burybot.png" />
+</p>
 
-_Be bury_
